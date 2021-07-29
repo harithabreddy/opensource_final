@@ -29,7 +29,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'afbc078ca1d0743d518a126ee13b10679cacf603',
+    'reference' => '16ffbbee859b2a9555b801e99a724650572a9735',
     'name' => 'drupal/legacy-project',
   ),
   'versions' => 
@@ -191,6 +191,15 @@ private static $installed = array (
       array (
         0 => '8.9.16',
       ),
+    ),
+    'drupal/bootstrap' => 
+    array (
+      'pretty_version' => '3.23.0',
+      'version' => '3.23.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-3.23',
     ),
     'drupal/breakpoint' => 
     array (
@@ -582,6 +591,15 @@ private static $installed = array (
         0 => '8.9.16',
       ),
     ),
+    'drupal/grid_view_bootstrap' => 
+    array (
+      'pretty_version' => '8.0.1',
+      'version' => '8.0.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.0.1',
+    ),
     'drupal/hal' => 
     array (
       'replaced' => 
@@ -677,7 +695,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'afbc078ca1d0743d518a126ee13b10679cacf603',
+      'reference' => '16ffbbee859b2a9555b801e99a724650572a9735',
     ),
     'drupal/link' => 
     array (
