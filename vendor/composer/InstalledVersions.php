@@ -29,7 +29,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '16ffbbee859b2a9555b801e99a724650572a9735',
+    'reference' => 'af2eb2b2fe945449dbe4c8b3d7a52ec73c12f18d',
     'name' => 'drupal/legacy-project',
   ),
   'versions' => 
@@ -115,12 +115,30 @@ private static $installed = array (
       ),
       'reference' => '1febd6c3ef84253d7c815bed85fc622ad207a9f8',
     ),
+    'drupal-ckeditor-libraries-group/codesnippet' => 
+    array (
+      'pretty_version' => '4.16.1',
+      'version' => '4.16.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '722a47a1b5535ac1f807b269e73e600f4b23eee7',
+    ),
     'drupal/action' => 
     array (
       'replaced' => 
       array (
         0 => '8.9.16',
       ),
+    ),
+    'drupal/admin_toolbar' => 
+    array (
+      'pretty_version' => '3.0.1',
+      'version' => '3.0.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '3.0.1',
     ),
     'drupal/aggregator' => 
     array (
@@ -228,6 +246,15 @@ private static $installed = array (
       array (
         0 => '8.9.16',
       ),
+    ),
+    'drupal/codesnippet' => 
+    array (
+      'pretty_version' => '1.7.0',
+      'version' => '1.7.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.7',
     ),
     'drupal/color' => 
     array (
@@ -540,6 +567,24 @@ private static $installed = array (
         0 => '8.9.16',
       ),
     ),
+    'drupal/entity_reference_revisions' => 
+    array (
+      'pretty_version' => '1.9.0',
+      'version' => '1.9.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.9',
+    ),
+    'drupal/entity_usage' => 
+    array (
+      'pretty_version' => '2.0.0-beta3',
+      'version' => '2.0.0.0-beta3',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-2.0-beta3',
+    ),
     'drupal/faqfield' => 
     array (
       'pretty_version' => '7.0.0',
@@ -599,6 +644,15 @@ private static $installed = array (
       array (
       ),
       'reference' => '8.0.1',
+    ),
+    'drupal/h5p' => 
+    array (
+      'pretty_version' => '1.0.0-rc19',
+      'version' => '1.0.0.0-RC19',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.0-rc19',
     ),
     'drupal/hal' => 
     array (
@@ -695,7 +749,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '16ffbbee859b2a9555b801e99a724650572a9735',
+      'reference' => 'af2eb2b2fe945449dbe4c8b3d7a52ec73c12f18d',
     ),
     'drupal/link' => 
     array (
@@ -794,6 +848,15 @@ private static $installed = array (
       array (
         0 => '8.9.16',
       ),
+    ),
+    'drupal/paragraphs' => 
+    array (
+      'pretty_version' => '1.12.0',
+      'version' => '1.12.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.12',
     ),
     'drupal/path' => 
     array (
@@ -977,6 +1040,15 @@ private static $installed = array (
         0 => '8.9.16',
       ),
     ),
+    'drupal/views_infinite_scroll' => 
+    array (
+      'pretty_version' => '1.8.0',
+      'version' => '1.8.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.8',
+    ),
     'drupal/views_ui' => 
     array (
       'replaced' => 
@@ -1042,6 +1114,24 @@ private static $installed = array (
       array (
       ),
       'reference' => '239400de7a173fe9901b9ac7c06497751f00727a',
+    ),
+    'h5p/h5p-core' => 
+    array (
+      'pretty_version' => '1.24.2',
+      'version' => '1.24.2.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'db3da7a1441ae6c9ffacbb8110f41758c85beaa0',
+    ),
+    'h5p/h5p-editor' => 
+    array (
+      'pretty_version' => '1.24.3',
+      'version' => '1.24.3.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '338ae5bad572fe3d7c0a355d8ba8e24f360bb698',
     ),
     'laminas/laminas-diactoros' => 
     array (
